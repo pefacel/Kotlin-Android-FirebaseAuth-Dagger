@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509097707785",
+    "project_id": "fir-android-20bde",
+    "storage_bucket": "fir-android-20bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509097707785:android:618b3c67c0de8a77a4abd8",
+        "android_client_info": {
+          "package_name": "com.pefacel.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0NbMKK1OQPr_FtW2pTdNC2eHJ6h3Nsos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509097707785:android:2aec8844a46c1dc7a4abd8",
+        "android_client_info": {
+          "package_name": "com.pefacel.mvvmfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0NbMKK1OQPr_FtW2pTdNC2eHJ6h3Nsos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
